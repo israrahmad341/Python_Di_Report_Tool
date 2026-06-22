@@ -1,4 +1,4 @@
-﻿# ðŸ“Š Python DI Report Tool (Distributor Reporting System)
+﻿#  Python DI Report Tool (Distributor Reporting System)
 
 **The Problem:** 
 Distributor reporting involved manual multi-tab Excel creation, complex month-over-month (FTD/MTD/LMTD) metric comparisons, and geographic STATE HEAD mapping, which was slow and highly prone to human error.
